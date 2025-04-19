@@ -5,8 +5,8 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
  <title>@yield('title', 'Albert Einstein-Ilmuwan Paling Berpengaruh Sepanjang Masa')</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+ <meta content="Portofolio tokoh Albert Einstein yang menampilkan perjalanan hidup, karya ilmiah, penghargaan, dan kontribusinya dalam dunia fisika modern." name="description">
+ <meta content="Albert Einstein, portofolio Einstein, teori relativitas, ilmuwan terkenal, sejarah sains, biografi Einstein, penemuan ilmiah, Nobel Fisika, tokoh dunia" name="keywords">
 
   <!-- Favicons -->
   <link href="{{ asset ('assets/img/favicon.ico') }}" rel="icon">
