@@ -1,5 +1,5 @@
 @extends('layouts.app')
-
+@section('title', 'Albert Einstein | Portofolio')
 @section('content')
 
     <!-- Portfolio Section -->
