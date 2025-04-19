@@ -22,9 +22,6 @@ Route::get('/contact', function () {
     return view('pages.contact');
 });
 
-Route::get('/welcome', function () {
-    return view('welcome');
-});
 
 use App\Http\Controllers\ContactController;
 
