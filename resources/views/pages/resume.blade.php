@@ -1,5 +1,7 @@
 @extends('layouts.app')
 
+@section('title', 'Albert Einstein | Resume')
+
 @section('content')
 
  <!-- Resume Section -->
